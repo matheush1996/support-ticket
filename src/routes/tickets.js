@@ -1,4 +1,4 @@
-export const ticktes = [
+export const tickets = [
   {
     method: "POST",
     path: "/tickets",

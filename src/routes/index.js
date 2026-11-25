@@ -1,3 +1,3 @@
-import { ticktes } from "./tickets.js";
+import { tickets } from "./tickets.js"
 
-export const routes = [ ...ticktes ]
+export const routes = [ ...tickets ]
